@@ -40,7 +40,8 @@ For any issues, please contact:
 - **Chetan Singh Sengar**: (+91-8979861387) [chetan.sengar@icloud.com](mailto:chetan.sengar@icloud.com)
 - **Siddhant Bohra**: (+91-8561046422) [abhisidds@gmail.com](mailto:abhisidds@gmail.com)
 - **Mohit Sharma**: (+91-9034229820) [er.mohitsharma@outlook.com](mailto:er.mohitsharma@outlook.com)
-- **Rakesh**: (+91-9136802512)
+- **Rakesh**: (+91-9136802512) [rakeshkumawatrrkk12877@gmail.com](mailto:rakeshkumawatrrkk12877@gmail.com)
+**Note** : Avoid calling unless it's very important. Your messages over whatspp will get response as soon as one get free.
 
 ## Repository Structure
 Each team will have their own private repository where they can collaborate on their project. Only team members and admins will have access to these repositories.
