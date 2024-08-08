@@ -39,8 +39,8 @@ Exciting prizes await the top 3 teams!
 For any issues, please contact:
 - **Chetan Singh Sengar**: (+91-8979861387) [chetan.sengar@icloud.com](mailto:chetan.sengar@icloud.com)
 - **Siddhant Bohra**: (+91-8561046422) [abhisidds@gmail.com](mailto:abhisidds@gmail.com)
-- **Mohit Sharma**: [er.mohitsharma@outlook.com](mailto:er.mohitsharma@outlook.com)
-- **Rakesh**: (+91-9034229820) 
+- **Mohit Sharma**: (+91-9034229820) [er.mohitsharma@outlook.com](mailto:er.mohitsharma@outlook.com)
+- **Rakesh**: (+91-9136802512)
 
 ## Repository Structure
 Each team will have their own private repository where they can collaborate on their project. Only team members and admins will have access to these repositories.
